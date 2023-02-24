@@ -1,0 +1,59 @@
+p {
+	margin: 0px;
+}
+
+.a13 {
+	display: flex;
+}
+
+.aitem1{
+	background-color: lightpink;
+	width: 100px;
+	height: 50px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.aitem2 {
+	background-color: lightblue;
+	width: 200px;
+}
+
+.aitem1p {
+	background-color: black;
+	color: white;
+}
+
+.b13 {
+	margin-top: 20px;
+	display: flex;
+}
+
+.bitem1 {
+	background-color: lightpink;
+	width: 100px;
+}
+
+.bitem2{
+	background-color: lightblue;
+	width: 200px;
+	height: 50px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+}
+
+.brow2 {
+	
+	display: flex;
+	justify-content: space-between;
+}
+
+.bp {
+	background-color: black;
+	color: white;
+}

@@ -1,0 +1,27 @@
+p {
+	font-family: Montserrat;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.Header {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 15px;
+
+}
+
+.text {
+	text-align: center;
+	font-size: 16px;
+}
+
+.delivery {
+	text-decoration: underline;
+}
+
+.delivery:hover {
+	cursor: pointer;
+	font-weight: bold;
+}
